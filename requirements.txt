@@ -3,3 +3,4 @@ Flask-CORS
 requests
 playwright
 beautifulsoup4
+gunicorn
